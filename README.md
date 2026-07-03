@@ -100,8 +100,10 @@ Senior Mobile Developer with **12+ years of experience** building native applica
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicconicco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicconicco&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://img.shields.io/badge/Experience-12%2B%20years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Android-Expert-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-Active-FA7343?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Remote-success?style=for-the-badge" />
 </p>
 
 ---
